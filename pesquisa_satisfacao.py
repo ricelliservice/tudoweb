@@ -1,6 +1,6 @@
 # Constante que define a quantidade de entrevistados
 # (Define a quantidade de pessoas que participarão da pesquisa)
-total_entrevistados = 3
+total_entrevistados = 50
 
 # Inicialização das variáveis de controle e acumuladores de notas
 cont = 1
