@@ -32,7 +32,7 @@ while cont <= total_entrevistados:
   idade = input("Digite a sua idade: ")
   while not idade.isdigit():
     print(
-        "[Aviso] Idade inválida! Digite apenas números inteiros para a idade."
+        "[Aviso] Idade inválida! Por favor digite apenas números para a idade."
     )
     idade = input("Digite a sua idade: ")
 
